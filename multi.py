@@ -1,3 +1,4 @@
+#  Please write a program that prints out a 12x 12 multiplication table
 def multiplication_table():
     for i in range(1, 13):
         for j in range(1, 13):
